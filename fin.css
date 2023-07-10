@@ -1,0 +1,97 @@
+.ht{
+    height:200px;
+}
+
+
+.colo1{
+    color:chartreuse;
+}
+
+.colo2{
+    color:darkgreen;
+}
+
+.wt{
+    width: 400px;
+}
+
+.imge{
+    width:600px;
+    height:500px;
+}
+
+.color3{
+    background-color:#f1efef;
+}
+
+
+.wrap {
+    height:max-content;
+    position: relative;
+  text-align:center;
+}
+
+.parallax {
+    background-image: url("https://www.finedge.in/assets/img/main-banner/testimonial.jpg");
+  
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+
+.color4{
+    color:#b4d442;
+}
+
+.heightparalax{
+    height:200px;
+}
+
+
+.banner:hover img {
+
+    transform: scale(1);
+    
+}
+
+.banner img:hover {
+
+    transform: scale(1.25);
+    cursor:pointer;
+    
+    }
+
+.parallax2{
+    background-image: url("https://www.finedge.in/assets/img/newsletter.png");
+  
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.input1{
+    margin-top:100px;
+}
+
+.input2{
+    padding-left:100px;
+    padding-right:100px;
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+
+.list{
+    display: inline-block;
+    list-style-type: none;
+    
+}
+
+a{
+    list-style-type:none;
+    text-decoration: none;
+    color:black;
+    font-size: 20px;
+}
